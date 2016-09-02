@@ -1,15 +1,15 @@
 package shaun.factory;
 
-import org.junit.Assert;
+/*import org.junit.Assert;
 import org.junit.Test;
 import shaun.domain.Person;
-import shaun.domain.PersonContact;
+import shaun.domain.PersonContact;*/
 
 /**
  * Created by Shaun Mesias on 2016/08/22.
  */
 public class PersonTest {
-    private Person person;
+   /* private Person person;
 
     @Test
     public void testCreate() throws Exception {
@@ -37,5 +37,5 @@ public class PersonTest {
                 .build();
         Assert.assertEquals(copyPerson.getName(),"testName");
 
-    }
+    }*/
 }

@@ -1,6 +1,6 @@
 package shaun.api;
 
-import org.junit.Assert;
+/*import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.web.client.RestTemplate;
 import shaun.domain.Driver;
@@ -8,13 +8,13 @@ import shaun.domain.DriverContact;
 import shaun.domain.DriverDetails;
 import shaun.factory.DriverFactory;
 
-import java.util.Set;
+import java.util.Set;*/
 
 /**
  * Created by Shaun Mesias on 2016/08/18.
  */
 public class DriverControllerTest {
-    @Test
+    /*@Test
     public void testCreate() throws Exception {
 
         String URI = "http://localhost:8080/driv";

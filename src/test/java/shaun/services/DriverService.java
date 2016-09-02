@@ -1,6 +1,6 @@
 package shaun.services;
 
-import org.springframework.beans.factory.annotation.Autowired;
+/*import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.testng.AbstractTestNGSpringContextTests;
 import org.springframework.test.context.web.WebAppConfiguration;
@@ -13,15 +13,15 @@ import shaun.domain.DriverDetails;
 import shaun.factory.DriverFactory;
 import shaun.services.impl.DriverServiceImpl;
 
-import static org.testng.AssertJUnit.assertNotNull;
+import static org.testng.AssertJUnit.assertNotNull;*/
 
 /**
  * Created by Shaun Mesias on 2016/08/22.
  */
-@SpringApplicationConfiguration(classes = App.class)
-@WebAppConfiguration
-public class DriverService extends AbstractTestNGSpringContextTests{
-    @Autowired
+/*@SpringApplicationConfiguration(classes = App.class)
+@WebAppConfiguration*/
+public class DriverService /*extends AbstractTestNGSpringContextTests*/{
+   /* @Autowired
     private DriverServiceImpl service;
 
     @Test

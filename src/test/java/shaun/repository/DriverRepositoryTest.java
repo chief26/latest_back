@@ -1,6 +1,6 @@
 package shaun.repository;
 
-import org.springframework.beans.factory.annotation.Autowired;
+/*import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.testng.AbstractTestNGSpringContextTests;
 import org.springframework.test.context.web.WebAppConfiguration;
@@ -12,15 +12,15 @@ import shaun.domain.DriverContact;
 import shaun.domain.DriverDetails;
 import shaun.factory.DriverFactory;
 
-import static org.testng.AssertJUnit.assertNotNull;
+import static org.testng.AssertJUnit.assertNotNull;*/
 
 /**
  * Created by Shaun Mesias on 2016/08/18.
  */
-@SpringApplicationConfiguration(classes = App.class)
-@WebAppConfiguration
-public class DriverRepositoryTest extends AbstractTestNGSpringContextTests {
-    @Autowired
+/*@SpringApplicationConfiguration(classes = App.class)
+@WebAppConfiguration*/
+public class DriverRepositoryTest /*extends AbstractTestNGSpringContextTests */{
+    /*@Autowired
     private DriverRepository repository;
 
     DriverDetails driverDetails;
@@ -52,5 +52,5 @@ public class DriverRepositoryTest extends AbstractTestNGSpringContextTests {
                 .build();
         Driver updatedDriver=repository.save(updateDriver);
         assertNotNull(updatedDriver);
-    }
+    }*/
 }

@@ -1,16 +1,16 @@
 package shaun.factory;
 
-import org.junit.Assert;
+/*import org.junit.Assert;
 import org.junit.Test;
 import shaun.domain.Driver;
 import shaun.domain.DriverContact;
-import shaun.domain.DriverDetails;
+import shaun.domain.DriverDetails;*/
 
 /**
  * Created by Shaun Mesias on 2016/08/18.
  */
 public class DriverTest {
-    private Driver driver;
+    /*private Driver driver;
 
     @Test
     public void testCreate() throws Exception {
@@ -48,5 +48,5 @@ public class DriverTest {
         Assert.assertEquals(copyDriver.getName(),"testName");
         Assert.assertEquals(copyDriver.getDriverDetails().getCarName(),"nissan");
 
-    }
+    }*/
 }
